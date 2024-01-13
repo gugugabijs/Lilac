@@ -1,0 +1,23 @@
+{
+    "totalCount": 1,
+    "pageName": "",
+    "goods": [
+        {
+            "id": 18623,
+            "name": "Audrey Hepburn",
+            "price": 300,
+            "discountPrice": 270,
+            "code": "394YFGA2YI0Q7ZSSBIBS85Y8KE1J64UY",
+            "inCart": false,
+            "inFavorite": false,
+            "haveDiscount": true,
+            "compilationId": null,
+            "categoryId": 18757,
+            "category": "B-week",
+            "discountRate": 10,
+            "imageUrl": "https://partner.inloya.com/files/shop/goods_main/394YFGA2YI0Q7ZSSBIBS85Y8KE1J64UY_b.jpg?d=919OG"
+        }
+    ],
+    "minPrice": 270,
+    "maxPrice": 270
+}

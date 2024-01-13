@@ -1,0 +1,53 @@
+{
+    "totalCount": 3,
+    "pageName": "PLANTS",
+    "goods": [
+        {
+            "id": 43510,
+            "name": "Alocasia",
+            "price": 60,
+            "discountPrice": 0,
+            "code": "Q268W69NM5JBB3519AHC1995QLD2RZ6E",
+            "inCart": false,
+            "inFavorite": false,
+            "haveDiscount": false,
+            "compilationId": null,
+            "categoryId": 18768,
+            "category": "Plant",
+            "discountRate": 0,
+            "imageUrl": "https://partner.inloya.com/files/shop/goods_main/Q268W69NM5JBB3519AHC1995QLD2RZ6E.jpg?d=94DEK"
+        },
+        {
+            "id": 43508,
+            "name": "Monstera",
+            "price": 45,
+            "discountPrice": 0,
+            "code": "3HPHS93W65EWY7KMGTJUX4QZMK9PCE86",
+            "inCart": false,
+            "inFavorite": false,
+            "haveDiscount": false,
+            "compilationId": null,
+            "categoryId": 18768,
+            "category": "Plant",
+            "discountRate": 0,
+            "imageUrl": "https://partner.inloya.com/files/shop/goods_main/3HPHS93W65EWY7KMGTJUX4QZMK9PCE86_b.jpg?d=DML4W"
+        },
+        {
+            "id": 29493,
+            "name": "Scindapsus",
+            "price": 70,
+            "discountPrice": 0,
+            "code": "C9D3O7OHWA6X7LK9UTN6IJ275T68TWX0",
+            "inCart": false,
+            "inFavorite": false,
+            "haveDiscount": false,
+            "compilationId": null,
+            "category": "Plant",
+            "categoryId": 18768,
+            "discountRate": 0,
+            "imageUrl": "https://partner.inloya.com/files/shop/goods_main/C9D3O7OHWA6X7LK9UTN6IJ275T68TWX0_b.jpg?d=YTDUR"
+        }
+    ],
+    "minPrice": 0,
+    "maxPrice": 0
+}

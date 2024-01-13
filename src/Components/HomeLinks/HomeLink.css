@@ -1,0 +1,13 @@
+.home-link{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    max-width: 100%;
+  margin: 75px 0 50px 0;
+}
+.home-link img{
+    height: 320px;
+    width: 498.75px;
+    cursor: pointer;
+    object-fit: cover;
+}

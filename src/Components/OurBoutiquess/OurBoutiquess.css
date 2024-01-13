@@ -1,0 +1,20 @@
+.boutique-container{
+    margin: 50px 100px ;
+}
+.boutique-img img{
+    height: 320px;
+    width: 498.75px;
+    cursor: pointer;
+    object-fit: cover;
+}
+.boutique-above{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 20px 0;
+}
+.boutique-text{
+    border: 1px solid #cacaca;
+    height: 320px;
+    width: 498.75px;
+}

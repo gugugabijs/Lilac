@@ -1,0 +1,64 @@
+.footer {
+    background-color: #ffffff;
+    color: #928f93;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #afacac;
+  
+  }
+  
+  .footer li {
+    text-decoration: none;
+    color: #928f93;
+    margin: 0 10px;
+    list-style: none;
+    cursor: pointer;
+  }
+  
+ 
+
+.footer-above{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+  }
+  .for-clients{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+  }
+  .footer-logo img{
+    width: 5rem;
+    height: auto;
+  
+  }
+  .contact-us {
+display: flex;
+flex-direction: column;
+gap: 15px;
+align-items: flex-start;
+  }
+ 
+.follow-us{
+  display: flex;
+flex-direction: column;
+gap: 15px;
+align-items: flex-start;
+}
+.footer-text{
+  color: #161516;
+
+}
+.whatsapp-chat{
+  background-color: #735aa9;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 3%;
+  
+}
+.footer-bottom{
+display: flex;
+padding: 20px;
+margin: 20px;
+}
