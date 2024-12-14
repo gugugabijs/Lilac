@@ -21,6 +21,8 @@
   #right-btn{
     position: absolute;
     bottom: 10%;
+   
+ 
     right: 30%;
   }
   
@@ -42,8 +44,8 @@
     color: #fff;
     font-size: 50px;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    position: absolute;
+    font-family: Alegreya, serif;
+    position: relative;
     top: 20%;
     left: 10%;
 }
@@ -51,8 +53,8 @@
     background-color: #735aa9;
     color: aliceblue;
    border-radius: 5%;
-   position: absolute;
-   bottom: 10%;
+   position: relative;
+   bottom: 20%;
    left: 10%;
    padding: 15px 20px 15px 20px;
    font-style: normal;
