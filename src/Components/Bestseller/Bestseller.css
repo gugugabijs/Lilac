@@ -1,6 +1,10 @@
 .text{
     font-weight: bold;
     font-size: 50px;
+    font-family: Alegreys, serif;
     text-align: center;
     padding: 70px;
+}
+.bestseller{
+    padding: 0 25% 0 25% ;
 }

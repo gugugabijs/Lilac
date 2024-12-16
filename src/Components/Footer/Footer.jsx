@@ -26,24 +26,20 @@ const Footer = () => {
 <p className='footer-text'> Fizuli str.
  </p>
  <h3>+994 50 226 16 63</h3>
- <span className='whatsapp-chat'>Whatsapp Chat <BsWhatsapp/></span> 
- <p className='footer-text'>Neftchiler ave. </p>
- <h3>+994 50 226 16 67 </h3>
  <span className='whatsapp-chat'>Whatsapp Chat <BsWhatsapp/></span>
  <p>info@lilac.az</p>
 
       </div>
       <div className="follow-us">
         <p className='footer-text'>Follow Us</p>
-        <a href="https://en-gb.facebook.com/">Facebook</a>
-        <a href="https://www.instagram.com/">Instargram</a>
-        <a href="https://www.youtube.com/watch?v=7s_P4KJTQK4">Youtube</a>
-        <a href="https://gb.linkedin.com/">LinkedIn</a>
+        <a className='footer-text' href="https://en-gb.facebook.com/">Facebook</a>
+        <a className='footer-text' href="https://www.instagram.com/">Instargram</a>
+        <a className='footer-text' href="https://www.youtube.com/watch?v=7s_P4KJTQK4">Youtube</a>
+        <a className='footer-text' href="https://gb.linkedin.com/">LinkedIn</a>
       </div></div>
       <div className="footer-bottom">
       © 2021 Lilac
-      <span> <a href="https://play.google.com/store/apps/details?id=com.frazec.onlinestore.lilac&hl=en_US&gl=US">Google Play</a></span>
-      <span><a href="https://apps.apple.com/az/app/lilac-az/id1535781509">App Store</a></span>
+      
 
       </div>
     </footer>

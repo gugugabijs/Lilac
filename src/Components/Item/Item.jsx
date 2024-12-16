@@ -16,7 +16,6 @@ function Item(props) {
   const handleAddToCart = () => {
       addToCart(props);
       setSuccessMessage('Successfully added!');
-      // Clear the success message after a few seconds (optional)
       setTimeout(() => setSuccessMessage(''), 1000);
     };
 
