@@ -32,6 +32,7 @@ function App() {
         <Route path='/cart' element={<Cart/>}/>
         <Route path='/login' element={<Login/>}/>
         <Route path='/boutiques' element={<OurBoutiques/>}/>
+        <Route path='/accessories' element={<Categories category='Accessories'/>}/>
       </Routes>
       <Footer/>
       </BrowserRouter>
