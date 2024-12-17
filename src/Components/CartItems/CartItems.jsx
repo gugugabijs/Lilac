@@ -35,7 +35,7 @@ const CartItems = () => {
                   </button>
                   {/* <button onClick={increaseCount}>+</button> */}
 
-                  <p>${e.price * cartItems[e.id]}</p>
+                  <p>{e.price * cartItems[e.id]} AZN</p>
                   <img
                     className="cartietms-remove-icon"
                     src={remove_icon}
@@ -57,7 +57,7 @@ const CartItems = () => {
             <div>
               <div className="cartitems-total-item">
                 <p>Subtotal</p>
-                <p>${getTotalCartAmount()}</p>
+                <p>{getTotalCartAmount()} AZN</p>
               </div>
               <hr />
               <div className="cartitems-total-item">
@@ -67,7 +67,7 @@ const CartItems = () => {
               <hr />
               <div className="cartitems-total-item">
                 <h3>Total</h3>
-                <h3>${getTotalCartAmount()}</h3>
+                <h3>{getTotalCartAmount()} AZN</h3>
               </div>
             </div>
             <button>PROCEED TO CHECKOUT</button>
