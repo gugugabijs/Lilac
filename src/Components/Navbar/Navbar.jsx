@@ -43,7 +43,8 @@ const Navbar = () => {
 
 
   return (
-    <div className="navbar-container"><div className="navbar"></div>
+    <div className="navbar-container">
+      <div className="navbar">
       <div className="nav-logo">
         <a href="/">
           {" "}
@@ -91,6 +92,8 @@ const Navbar = () => {
         {getTotalCartItems()> 0 &&(<div className="nav-cart-count">{getTotalCartItems()}</div>)}
         
       </div>
+      </div>
+     
 
       
       
@@ -105,6 +108,7 @@ const Navbar = () => {
       </Modal>
 
     </div>
+    
   );
 };
 export default Navbar;
